@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>URL_0</key>
+        <value>https://google.com</value>
+    </entry>
+
+    <entry>
+        <key>URL_2</key>
+        <value>https://google.com</value>
+    </entry>
+
+    <entry>
+        <key>APP_MODE</key>
+        <value>1</value>
+    </entry>
+
+    <entry>
+        <key>SHOW_SPLASH</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>IS_WEBVIEW</key>
+        <value>true</value>
+    </entry>
+</defaultsMap>
